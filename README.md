@@ -12,6 +12,7 @@ Press **Play** to experience the visuals.
 
 If you enjoy this project, please consider ⭐ starring my repository. 😁
 
+> *"Someone I knew likes purple."* 💜
 
 An interactive visual created with **TouchDesigner**.
 
