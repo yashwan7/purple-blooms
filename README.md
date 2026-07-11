@@ -16,7 +16,7 @@ Download and install TouchDesigner, then open the `my yash/touchdesign-purpleblo
 
 This project requires `MediaPipe.tox`, which is too large to be hosted directly on GitHub.
 
-1. Download `MediaPipe.tox` from the latest Release 
+1. Download `MediaPipe.tox` from the **latest Release** of this repository.
 2. Place it inside the toxes folder i.e yash:touchdesign-purpleblooms/toxes/
 
 Press **Play** to experience the visuals.
