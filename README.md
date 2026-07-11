@@ -23,6 +23,11 @@ An interactive visual created with **TouchDesigner**.
 
 This project uses real-time particle and flower effects to create a calm, atmospheric scene. The visuals respond smoothly and are designed as an exploration of generative art and creative coding.
 
+## 📷 Preview
+
+*A short demo video is included in this repository.*
+https://github.com/user-attachments/assets/0429eb10-a9af-4c86-afce-9e571bc182d5
+
 ## ✨ Features
 
 - Real-time visual effects
@@ -37,9 +42,6 @@ This project uses real-time particle and flower effects to create a calm, atmosp
 - GLSL / TOPs / CHOPs / COMPs
 - Real-time Rendering
 
-## 📷 Preview
-
-*A short demo video is included in this repository.*
 
 ## 🎯 Purpose
 
@@ -49,6 +51,6 @@ This project was created to explore interactive visuals, creative coding, and re
 
 > *"Someone I knew likes purple."* 💜
 
-https://github.com/user-attachments/assets/0429eb10-a9af-4c86-afce-9e571bc182d5
+
 
 
