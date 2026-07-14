@@ -6,7 +6,7 @@
 
 *Interactive generative flower visuals built with TouchDesigner.*
 
-> *"Someone I knew likes purple."* 💜
+> *"Someone I knew likes purple."* 
 
 Want to make one yourself? Just clone or download this repository.
 
