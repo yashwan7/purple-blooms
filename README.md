@@ -1,18 +1,9 @@
 
-
-https://github.com/user-attachments/assets/8f815506-730a-42eb-9cbc-708a249b18f2
-
-
-
-
-
-
-
-
-
-
-
 # 🌸 Purple Bloom
+## 📷 Preview
+
+*A short demo video is included in this repository.* ( end of this readme  a link is provided. )
+
 
 *Interactive generative flower visuals built with TouchDesigner.*
 
@@ -36,10 +27,6 @@ If you enjoy this project, please consider ⭐ starring my repository. 😁
 An interactive visual created with **TouchDesigner**.
 
 This project uses real-time particle and flower effects to create a calm, atmospheric scene. The visuals respond smoothly and are designed as an exploration of generative art and creative coding.
-
-## 📷 Preview
-
-*A short demo video is included in this repository.* ( end of this readme  a link is provided. )
 
 
 ## ✨ Features
